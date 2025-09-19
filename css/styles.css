@@ -1,0 +1,62 @@
+img{width:80px}
+main{margin-top: 10%;}
+
+PÁGINA PRINCIPAL INICIAL
+
+body{background-color: rgb(255, 247, 211); color: rgb(73, 33, 0); text-align: justify}
+        
+        h1{color:rgb(0, 138, 30);}
+        h2{color: rgb(150, 0, 0); font-size: large ;}
+        h3{color:rgb(131, 0, 0) ;font-size: medium}
+        h4{color:rgb(73, 33, 0) ;}
+            
+            a[href="./cardapio.html"]:link{
+                color: rgb(0, 138, 30);}
+            a[href="./contato.html"]:link{
+                 color: rgb(0, 138, 30);}
+            a[href="./cardapio.html"]:visited{
+                color: rgb(47, 0, 255);}
+            a[href="./contato.html"]:visited{
+                color: rgb(47, 0, 255);}
+    
+CARDAPIO
+
+
+    body{background-color: rgb(255, 247, 211); color: rgb(73, 33, 0); text-align: justify}
+    h1{color: rgb(0, 138, 30);}
+    h2{color: rgb(150, 0, 0); font-size: large ;}
+    h3{color:rgb(131, 0, 0) ;font-size: medium}
+    
+    table, th,td{color: rgb(73, 33, 0); background-color:rgba(255, 252, 252, 0); border: 1px solid rgba(0, 0, 0, 0.164);
+        border-collapse: collapse;}
+    a[href="./index.html"]:link{
+    color: rgb(40, 138, 30);}
+    a[href="./index.html"]:visited{
+    color: rgb(40, 138, 30);}
+    a[href="./contato.html"]:link{
+    color: rgb(47, 0, 255);}
+    a[href="./contato.html"]:visited{
+    color: rgb(47, 0, 255);}
+
+CONTATO
+
+body{background-color: rgb(255, 247, 211); color: rgb(73, 33, 0); text-align: justify}
+    h1{color: rgb(0, 138, 30);}
+    h2{color: rgb(150, 0, 0); font-size: large ;}
+    h3{color:rgb(131, 0, 0) ;font-size: medium}
+    a[href="./index.html"]:link{
+    color: rgb(0, 138, 30);}
+    a[href="./index.html"]:visited{
+    color: rgb(47, 0, 255);}
+    a[href="https://www.instagram.com/pizzahutbrasil/"]:link{
+    color: rgb(0, 138, 30);}
+    a[href="https://www.instagram.com/pizzahutbrasil/"]:visited{
+    color: rgb(47, 0, 255);}
+    a[href="https://pizzahut.com.br/"]:link{
+    color: rgb(0, 138, 30);}
+    a[href="https://pizzahut.com.br/"]:visited{
+    color: rgb(47, 0, 255);}
+    a[href="./cardapio.html"]:link{
+    color: rgb(0, 138, 30);}
+    a[href="./cardapio.html"]:visited{
+    color: rgb(47, 0, 255);}
